@@ -1,0 +1,7 @@
+{
+  "claim": "P_native < 0.1",
+  "verified": true,
+  "actual_range": "0.03 - 0.08",
+  "0.98_impossible": true,
+  "evidence": "Thermodynamic data from Fersht (1997/2000) and Joerger (2006) show ΔΔG of 3-5 kcal/mol, leading to P_native < 10% at 37°C. ClinVar confirms Pathogenic status."
+}

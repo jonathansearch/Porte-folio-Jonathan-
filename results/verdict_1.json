@@ -1,0 +1,5 @@
+{
+  "claim": "FIELD_NOT_IN_PDB",
+  "verified": true,
+  "evidence": "grep -i 'key_barrier' and 'barrier' returned 0 hits in 2OCJ.pdb. Manual inspection of field types confirms standard PDB fields only."
+}

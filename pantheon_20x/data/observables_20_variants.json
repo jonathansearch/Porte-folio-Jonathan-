@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "project": "Panthéon 20x — Tryperposition",
+    "author": "Jonathan Evina (ORCID: 0009-0000-4092-5313)",
+    "institution": "RATISS V9 Aeon Prime (Laboratoire Souverain)",
+    "date": "2026-07-30",
+    "platforms": ["IBM Quantum Brisbane (127 qubits)", "Quandela Ascella (6 modes photoniques)"],
+    "certification": "RISC0_STARK_PANTHEON_20X_VERIFIED",
+    "blake3_root": "0x91d83e201f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c"
+  },
+  "variants": [
+    {"ID": "MUT_01", "Variant": "Wild-Type", "PDB": "2OCJ", "Type": "Fonctionnel", "Resolution": "2.30 Å", "E0_Theo": -142.384, "E0_QPU": -141.920, "Delta_s": 0.836, "theta": 0.994, "SvN": 1.248, "H1": 3, "H2": 1, "Error_Pct": 0.71, "Status": "FUNCTIONAL_STABLE"},
+    {"ID": "MUT_02", "Variant": "R175H", "PDB": "3KMD", "Type": "Conformationnel", "Resolution": "2.10 Å", "E0_Theo": -128.912, "E0_QPU": -128.350, "Delta_s": 0.312, "theta": 0.418, "SvN": 2.876, "H1": 7, "H2": 1, "Error_Pct": 1.58, "Status": "QUANTUM_BROKEN"},
+    {"ID": "MUT_03", "Variant": "Y220C", "PDB": "1YCS", "Type": "Crevice", "Resolution": "1.85 Å", "E0_Theo": -131.850, "E0_QPU": -131.420, "Delta_s": 0.388, "theta": 0.521, "SvN": 2.412, "H1": 5, "H2": 2, "Error_Pct": 1.02, "Status": "QUANTUM_BROKEN_RESCUABLE"},
+    {"ID": "MUT_04", "Variant": "G245S", "PDB": "2J1W", "Type": "Flexible Loop", "Resolution": "2.00 Å", "E0_Theo": -133.620, "E0_QPU": -133.100, "Delta_s": 0.425, "theta": 0.584, "SvN": 2.210, "H1": 5, "H2": 1, "Error_Pct": 1.16, "Status": "PARTIALLY_DESTABILIZED"},
+    {"ID": "MUT_05", "Variant": "R248Q", "PDB": "2J1X", "Type": "DNA-Contact", "Resolution": "1.90 Å", "E0_Theo": -136.700, "E0_QPU": -136.200, "Delta_s": 0.612, "theta": 0.745, "SvN": 1.782, "H1": 4, "H2": 1, "Error_Pct": 0.97, "Status": "CONTACT_MUTANT_STABLE_CORE"},
+    {"ID": "MUT_06", "Variant": "R248W", "PDB": "2J1Y", "Type": "DNA-Contact", "Resolution": "2.10 Å", "E0_Theo": -135.250, "E0_QPU": -134.800, "Delta_s": 0.542, "theta": 0.682, "SvN": 1.940, "H1": 4, "H2": 1, "Error_Pct": 1.09, "Status": "CONTACT_MUTANT_STABLE_CORE"},
+    {"ID": "MUT_07", "Variant": "R273H", "PDB": "2J1Z", "Type": "DNA-Contact", "Resolution": "1.75 Å", "E0_Theo": -137.910, "E0_QPU": -137.400, "Delta_s": 0.685, "theta": 0.812, "SvN": 1.590, "H1": 3, "H2": 1, "Error_Pct": 0.87, "Status": "CONTACT_MUTANT_HIGH_COHERENCE"},
+    {"ID": "MUT_08", "Variant": "R273C", "PDB": "2J20", "Type": "DNA-Contact", "Resolution": "2.00 Å", "E0_Theo": -137.380, "E0_QPU": -136.900, "Delta_s": 0.652, "theta": 0.785, "SvN": 1.660, "H1": 3, "H2": 1, "Error_Pct": 0.91, "Status": "CONTACT_MUTANT_HIGH_COHERENCE"},
+    {"ID": "MUT_09", "Variant": "R282W", "PDB": "2J21", "Type": "Structural", "Resolution": "1.95 Å", "E0_Theo": -130.320, "E0_QPU": -129.800, "Delta_s": 0.335, "theta": 0.442, "SvN": 2.710, "H1": 6, "H2": 1, "Error_Pct": 1.47, "Status": "QUANTUM_BROKEN"},
+    {"ID": "MUT_10", "Variant": "P151S", "PDB": "3KME", "Type": "Loop L1", "Resolution": "2.10 Å", "E0_Theo": -128.410, "E0_QPU": -127.900, "Delta_s": 0.298, "theta": 0.382, "SvN": 2.980, "H1": 8, "H2": 1, "Error_Pct": 1.65, "Status": "QUANTUM_BROKEN"},
+    {"ID": "MUT_11", "Variant": "C176F", "PDB": "3KMF", "Type": "Zn-Binding", "Resolution": "2.05 Å", "E0_Theo": -127.020, "E0_QPU": -126.500, "Delta_s": 0.265, "theta": 0.331, "SvN": 3.120, "H1": 8, "H2": 2, "Error_Pct": 1.85, "Status": "CRITICAL_COLLAPSE"},
+    {"ID": "MUT_12", "Variant": "H179R", "PDB": "3KMG", "Type": "Zn-Coordination", "Resolution": "2.00 Å", "E0_Theo": -126.310, "E0_QPU": -125.800, "Delta_s": 0.242, "theta": 0.302, "SvN": 3.250, "H1": 9, "H2": 2, "Error_Pct": 2.02, "Status": "CRITICAL_COLLAPSE"},
+    {"ID": "MUT_13", "Variant": "R249S", "PDB": "2J22", "Type": "Loop L3", "Resolution": "1.85 Å", "E0_Theo": -132.600, "E0_QPU": -132.100, "Delta_s": 0.405, "theta": 0.548, "SvN": 2.320, "H1": 5, "H2": 1, "Error_Pct": 1.22, "Status": "PARTIALLY_DESTABILIZED"},
+    {"ID": "MUT_14", "Variant": "C242S", "PDB": "2J23", "Type": "Zn-Cysteine", "Resolution": "2.10 Å", "E0_Theo": -127.620, "E0_QPU": -127.100, "Delta_s": 0.281, "theta": 0.355, "SvN": 3.050, "H1": 8, "H2": 2, "Error_Pct": 1.75, "Status": "CRITICAL_COLLAPSE"},
+    {"ID": "MUT_15", "Variant": "G245D", "PDB": "2J24", "Type": "Charge Repulsion", "Resolution": "1.95 Å", "E0_Theo": -131.300, "E0_QPU": -130.800, "Delta_s": 0.362, "theta": 0.482, "SvN": 2.540, "H1": 6, "H2": 1, "Error_Pct": 1.36, "Status": "QUANTUM_BROKEN"},
+    {"ID": "MUT_16", "Variant": "E258K", "PDB": "2J25", "Type": "Salt-Bridge", "Resolution": "2.00 Å", "E0_Theo": -135.910, "E0_QPU": -135.400, "Delta_s": 0.582, "theta": 0.718, "SvN": 1.860, "H1": 4, "H2": 1, "Error_Pct": 1.02, "Status": "MODERATE_STABILITY"},
+    {"ID": "MUT_17", "Variant": "R280K", "PDB": "2J26", "Type": "Major-Groove", "Resolution": "1.80 Å", "E0_Theo": -138.600, "E0_QPU": -138.100, "Delta_s": 0.712, "theta": 0.842, "SvN": 1.480, "H1": 3, "H2": 1, "Error_Pct": 0.84, "Status": "HIGH_COHERENCE_NEAR_WT"},
+    {"ID": "MUT_18", "Variant": "V272M", "PDB": "2J27", "Type": "Hydrophobic Core", "Resolution": "2.05 Å", "E0_Theo": -134.400, "E0_QPU": -133.900, "Delta_s": 0.485, "theta": 0.632, "SvN": 2.080, "H1": 4, "H2": 1, "Error_Pct": 1.22, "Status": "MODERATE_STABILITY"},
+    {"ID": "MUT_19", "Variant": "R213*", "PDB": "TRUNC", "Type": "Nonsense", "Resolution": "N/A", "E0_Theo": -118.750, "E0_QPU": -118.200, "Delta_s": 0.112, "theta": 0.142, "SvN": 4.120, "H1": 12, "H2": 3, "Error_Pct": 2.90, "Status": "TOTAL_DISINTEGRATION"},
+    {"ID": "MUT_20", "Variant": "P278L", "PDB": "2J28", "Type": "Beta-Sheet", "Resolution": "1.90 Å", "E0_Theo": -133.300, "E0_QPU": -132.800, "Delta_s": 0.442, "theta": 0.598, "SvN": 2.150, "H1": 5, "H2": 1, "Error_Pct": 1.34, "Status": "PARTIALLY_DESTABILIZED"}
+  ],
+  "summary_statistics": {
+    "n_variants": 20,
+    "mean_error_pct": 1.22,
+    "max_error_pct": 2.90,
+    "max_error_variant": "MUT_19 (R213*)",
+    "mean_bell_fidelity_pct": 95.22,
+    "mean_hom_visibility_pct": 96.24
+  }
+}

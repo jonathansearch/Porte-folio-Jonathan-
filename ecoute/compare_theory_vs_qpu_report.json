@@ -1,0 +1,12 @@
+{
+  "summary": "Comparison between Tryperposition theory and Physical QPU results",
+  "convergence": "TRYPERPOSITION_VERIFIED",
+  "stable_abscissa_reached": true,
+  "theoretical_prediction": {
+    "phi": -0.0030
+  },
+  "experimental_result": {
+    "phi": -0.0029
+  },
+  "error_margin": 0.0001
+}

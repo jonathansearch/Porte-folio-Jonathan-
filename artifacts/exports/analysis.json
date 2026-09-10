@@ -1,0 +1,29 @@
+{
+  "validation": [
+    {
+      "level": "success",
+      "title": "Topology check passed",
+      "detail": "The local circuit graph has unique IDs, valid links and a readout path for each qubit."
+    }
+  ],
+  "collisions": [],
+  "risk": [
+    {
+      "first": "q0",
+      "second": "q1",
+      "adjacent": true,
+      "couplingPaths": [
+        "c0"
+      ],
+      "distance": 40,
+      "detuning": 0.21999999999999975,
+      "factors": {
+        "topology": 90,
+        "spatial": 33,
+        "spectral": 56
+      },
+      "score": 69,
+      "level": "medium"
+    }
+  ]
+}

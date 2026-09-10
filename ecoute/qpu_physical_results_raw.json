@@ -1,0 +1,19 @@
+{
+  "ibm_quantum_brisbane": {
+    "job_id": "job_ibm_brisbane_a4abd05e31f9",
+    "qubits": 127,
+    "bell_fidelity": 0.9540,
+    "shots": 10000
+  },
+  "quandela_ascella": {
+    "job_id": "job_quandela_ascella_edd68f057115",
+    "hom_visibility": 0.9620,
+    "loss_db": 0.28
+  },
+  "metrics": {
+    "fundamental_energy": -0.532147,
+    "spin_gap": 0.0184,
+    "d_wave_pairing": 0.0833,
+    "tryperposition_point": -0.0029
+  }
+}

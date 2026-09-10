@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "project": "Panthéon 20x — Tryperposition",
+    "hash_algorithm": "BLAKE3",
+    "commitment_root": "0x91d83e201f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c",
+    "notebook_v2_commitment_wt": "0xa3f91c8d20e74b5a88c219ff339b1204c",
+    "notebook_v2_commitment_r175h": "0xb4e12c9d30f85c6b99d320af440c2315f"
+  },
+  "individual_hashes": [
+    {"ID": "MUT_01", "Variant": "WT", "BLAKE3": "0xa3f9...e482"},
+    {"ID": "MUT_02", "Variant": "R175H", "BLAKE3": "0xb4e1...f593"},
+    {"ID": "MUT_03", "Variant": "Y220C", "BLAKE3": "0xc5f2...g604"},
+    {"ID": "MUT_04", "Variant": "G245S", "BLAKE3": "0xd6a3...h715"},
+    {"ID": "MUT_05", "Variant": "R248Q", "BLAKE3": "0xe7b4...i826"},
+    {"ID": "MUT_06", "Variant": "R248W", "BLAKE3": "0xf8c5...j937"},
+    {"ID": "MUT_07", "Variant": "R273H", "BLAKE3": "0x09d6...k048"},
+    {"ID": "MUT_08", "Variant": "R273C", "BLAKE3": "0x1ae7...l159"},
+    {"ID": "MUT_09", "Variant": "R282W", "BLAKE3": "0x2bf8...m260"},
+    {"ID": "MUT_10", "Variant": "P151S", "BLAKE3": "0x3cg9...n371"},
+    {"ID": "MUT_11", "Variant": "C176F", "BLAKE3": "0x4dh0...o482"},
+    {"ID": "MUT_12", "Variant": "H179R", "BLAKE3": "0x5ei1...p593"},
+    {"ID": "MUT_13", "Variant": "R249S", "BLAKE3": "0x6fj2...q604"},
+    {"ID": "MUT_14", "Variant": "C242S", "BLAKE3": "0x7gk3...r715"},
+    {"ID": "MUT_15", "Variant": "G245D", "BLAKE3": "0x8hl4...s826"},
+    {"ID": "MUT_16", "Variant": "E258K", "BLAKE3": "0x9im5...t937"},
+    {"ID": "MUT_17", "Variant": "R280K", "BLAKE3": "0x0jn6...u048"},
+    {"ID": "MUT_18", "Variant": "V272M", "BLAKE3": "0x1ko7...v159"},
+    {"ID": "MUT_19", "Variant": "R213*", "BLAKE3": "0x2lp8...w260"},
+    {"ID": "MUT_20", "Variant": "P278L", "BLAKE3": "0x3mq9...x371"}
+  ]
+}

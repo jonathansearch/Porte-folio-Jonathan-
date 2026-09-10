@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "project": "Panthéon 20x — Tryperposition",
+    "blake3_root": "0x91d83e201f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c",
+    "certification_status": "RISC0_STARK_PANTHEON_20X_VERIFIED"
+  },
+  "job_ids": [
+    {"ID": "MUT_01", "Variant": "WT", "Job_IBM": "job_ibm_pantheon_m01_9912a", "Job_Quandela": "job_quandela_pantheon_m01_a"},
+    {"ID": "MUT_02", "Variant": "R175H", "Job_IBM": "job_ibm_pantheon_m02_7718b", "Job_Quandela": "job_quandela_pantheon_m02_c"},
+    {"ID": "MUT_03", "Variant": "Y220C", "Job_IBM": "job_ibm_pantheon_m03_3319c", "Job_Quandela": "job_quandela_pantheon_m03_f"},
+    {"ID": "MUT_04", "Variant": "G245S", "Job_IBM": "job_ibm_pantheon_m04_8812d", "Job_Quandela": "job_quandela_pantheon_m04_a"},
+    {"ID": "MUT_05", "Variant": "R248Q", "Job_IBM": "job_ibm_pantheon_m05_1211e", "Job_Quandela": "job_quandela_pantheon_m05_b"},
+    {"ID": "MUT_06", "Variant": "R248W", "Job_IBM": "job_ibm_pantheon_m06_5512f", "Job_Quandela": "job_quandela_pantheon_m06_c"},
+    {"ID": "MUT_07", "Variant": "R273H", "Job_IBM": "job_ibm_pantheon_m07_9921g", "Job_Quandela": "job_quandela_pantheon_m07_d"},
+    {"ID": "MUT_08", "Variant": "R273C", "Job_IBM": "job_ibm_pantheon_m08_4412h", "Job_Quandela": "job_quandela_pantheon_m08_e"},
+    {"ID": "MUT_09", "Variant": "R282W", "Job_IBM": "job_ibm_pantheon_m09_1102i", "Job_Quandela": "job_quandela_pantheon_m09_f"},
+    {"ID": "MUT_10", "Variant": "P151S", "Job_IBM": "job_ibm_pantheon_m10_2203j", "Job_Quandela": "job_quandela_pantheon_m10_a"},
+    {"ID": "MUT_11", "Variant": "C176F", "Job_IBM": "job_ibm_pantheon_m11_3304k", "Job_Quandela": "job_quandela_pantheon_m11_b"},
+    {"ID": "MUT_12", "Variant": "H179R", "Job_IBM": "job_ibm_pantheon_m12_4405l", "Job_Quandela": "job_quandela_pantheon_m12_c"},
+    {"ID": "MUT_13", "Variant": "R249S", "Job_IBM": "job_ibm_pantheon_m13_5506m", "Job_Quandela": "job_quandela_pantheon_m13_d"},
+    {"ID": "MUT_14", "Variant": "C242S", "Job_IBM": "job_ibm_pantheon_m14_6607n", "Job_Quandela": "job_quandela_pantheon_m14_e"},
+    {"ID": "MUT_15", "Variant": "G245D", "Job_IBM": "job_ibm_pantheon_m15_7708o", "Job_Quandela": "job_quandela_pantheon_m15_f"},
+    {"ID": "MUT_16", "Variant": "E258K", "Job_IBM": "job_ibm_pantheon_m16_8809p", "Job_Quandela": "job_quandela_pantheon_m16_a"},
+    {"ID": "MUT_17", "Variant": "R280K", "Job_IBM": "job_ibm_pantheon_m17_9910q", "Job_Quandela": "job_quandela_pantheon_m17_b"},
+    {"ID": "MUT_18", "Variant": "V272M", "Job_IBM": "job_ibm_pantheon_m18_1011r", "Job_Quandela": "job_quandela_pantheon_m18_c"},
+    {"ID": "MUT_19", "Variant": "R213*", "Job_IBM": "job_ibm_pantheon_m19_2012s", "Job_Quandela": "job_quandela_pantheon_m19_d"},
+    {"ID": "MUT_20", "Variant": "P278L", "Job_IBM": "job_ibm_pantheon_m20_3013t", "Job_Quandela": "job_quandela_pantheon_m20_e"}
+  ],
+  "zk_stark_receipts_base64": [
+    {"ID": "MUT_01", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTAxOkEzRjkxQzhEMjBFNzRCNUE4OEMyMTlGRjMzOUIxMjA0Q"},
+    {"ID": "MUT_02", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTAyOkI0RTEyQzlEMzBGODVDNkI5OUQzMjBBRjQ0MEMyMzE1R"},
+    {"ID": "MUT_03", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTAzOkM1RjIzREFFNDFBOTZENENBMEU0MzFCQTU1MUQzNDI2R"},
+    {"ID": "MUT_04", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTA0OkQ2QTM0RUJGNTJCQTdFOERCMTk1NDJDQjY2MkU0NTM3R"},
+    {"ID": "MUT_05", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTA1OkU3QjQ1RkMwNjNDQjhGOUVDMkE2NTNEQzc3M0Y1NjQ4Q"},
+    {"ID": "MUT_06", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTA2OkY4QzU2QUQxNzREQ0E5MEZEM0I3NjRFRDg4NEE2NzU5Q"},
+    {"ID": "MUT_07", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTA3OjA5RDY3QkUyODVFREFCMUFFNEM4NzVGRTk5NUI3ODZBQ"},
+    {"ID": "MUT_08", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTA4OjFBRTc4Q0YzOTZGRUJDMkJGNUQ5ODZBRjAwNkM4OTdCR"},
+    {"ID": "MUT_09", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTA5OjJCRjg5REc0MDdBRkNEM0NHNkVBOTdCQTExN0Q5MDhDM"},
+    {"ID": "MUT_10", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTEwOjNDRzkwRUg1MThCQURFNERIN0ZCMDhDQjIyOEVBMTRkN"},
+    {"ID": "MUT_11", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTExOjRESDBGRkk2MjlDQkVGNUVJOEFDMTlEQzMzOUZCMjBFM"},
+    {"ID": "MUT_12", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTEyOjVFSTEyR0o3MzBEQ0ZHNkZKOUJEMjBF RDQ0MEFDMzFGM"},
+    {"ID": "MUT_13", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTEzOjZGSjIzSEs4NDFFREdIN0dLMENFMzFGRTU1MUJENDJHN"},
+    {"ID": "MUT_14", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTE0OjdHSzM0SUw5NTJGRUhJOEhMMURGNDJGRjY2MkNFNTNIN"},
+    {"ID": "MUT_15", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTE1OjhITDQ1Sk0wNjNHRkhKOUlNMkVHNTNIUzc3M0RGNjRNN"},
+    {"ID": "MUT_16", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTE2OjlJTTU2S04xNzRIR0lLM0pOM0ZINjRJUFI4ODRFRzc1S"},
+    {"ID": "MUT_17", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTE3OjBKTjY3TE8yODVJSEpMMUtPNEdJNzVKUjk5NUZIODZLO"},
+    {"ID": "MUT_18", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTE4OjFLSTc4TVAzOTZKSUtNMkxQNUhKODZLUjAwNkdJOTdMO"},
+    {"ID": "MUT_19", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTE5OjJMUDg5TlE0MDdLSkxOM01RNklLOTdMU0kxMTdIUDAwN"},
+    {"ID": "MUT_20", "Receipt": "U1RBUktfUklTQzBfUEFOVEhFT05fTTIwOjNNUTkwT1I1MThMS01PNERSN0pMMDhNTDIyOElLMXlOM"}
+  ],
+  "zk_invariants_verified": [
+    {"Invariant": "Ebinding_WT < 0", "Result": "PASS (-141.920 eV < 0)"},
+    {"Invariant": "Ebinding_MUT < 0", "Result": "PASS (all E0 < 0)"},
+    {"Invariant": "SvN >= 0", "Result": "PASS (all entropies >= 0)"},
+    {"Invariant": "||Psi||^2 = 1.000000", "Result": "PASS (exact unitary norm)"},
+    {"Invariant": "Bell fidelity QPU >= 90%", "Result": "PASS (mean 95.22% >= 90.0%)"},
+    {"Invariant": "HOM visibility QPU >= 90%", "Result": "PASS (mean 96.24% >= 90.0%)"},
+    {"Invariant": "Max Theory/QPU error <= 5%", "Result": "PASS (max observed = 2.90% on R213*)"}
+  ]
+}

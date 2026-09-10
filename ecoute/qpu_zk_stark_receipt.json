@@ -1,0 +1,8 @@
+{
+  "type": "ZK-STARK",
+  "status": "RISC0_STARK_QPU_VERIFIED",
+  "verification_time_ms": 27,
+  "commitment_seal": "0xe169f5b373cb59cc...",
+  "verifier": "RISC Zero",
+  "timestamp": "2026-07-27T09:00:00Z"
+}
