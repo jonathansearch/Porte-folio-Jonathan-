@@ -51,13 +51,13 @@ All my work is spread across two GitHub accounts. Here is where to go for what.
 
 | Repository | Role | Link |
 |---|---|---|
-| **scientist-research-** | Illustrated science site (black holes, Alcubierre, LCT) | [repo](https://github.com/evinajonathan13-max/scientist-research-) · [live site](https://evinajonathan13-max.github.io/scientist-research-/) |
-| **RATISS-ODV-AEON** | Pure topological engine (TTF-Compute, the brain of the whole system) — *private* | [repo](https://github.com/evinajonathan13-max/RATISS-ODV-AEON) |
-| **Ratiss-experimental-IA-** | RATIS-Net: applies the LCT law to language + emotions (ETH) — *private* | [repo](https://github.com/evinajonathan13-max/Ratiss-experimental-IA-) |
+| **scientist-research-** | Illustrated science site (black holes, Alcubierre, LCT) | [repo](https://github.com/jonathansearch/scientist-research-) · [live site](https://evinajonathan13-max.github.io/scientist-research-/) |
+| **RATISS-ODV-AEON** | Pure topological engine (TTF-Compute, the brain of the whole system) — *private* | [repo](https://github.com/jonathansearch/RATISS-ODV-AEON) |
+| **Ratiss-experimental-IA-** | RATIS-Net: applies the LCT law to language + emotions (ETH) — *private* | [repo](https://github.com/jonathansearch/Ratiss-experimental-IA-) |
 | **robot-Ratiss-** | Sovereign phone robot (LCT brain on LeRobot) — *private* | [repo](https://github.com/evinajonathan13-max/robot-Ratiss-) |
-| **Ratiss-Fusion-stark-** | Symbiotic fusion RATIS-Net × Needle/Qwen — *private* | [repo](https://github.com/evinajonathan13-max/Ratiss-Fusion-stark-) |
-| **RATISS-V10-Physical-Complexity-Audit** | Physical complexity audit (P vs NP, red-team) | [repo](https://github.com/evinajonathan13-max/RATISS-V10-Physical-Complexity-Audit) |
-| **ratiss-aeon-agent** | AEON agent (React/FastAPI UI + brain) | [repo](https://github.com/evinajonathan13-max/ratiss-aeon-agent) |
+| **Ratiss-Fusion-stark-** | Symbiotic fusion RATIS-Net × Needle/Qwen — *private* | [repo](https://github.com/jonathansearch/Ratiss-Fusion-stark-) |
+| **RATISS-V10-Physical-Complexity-Audit** | Physical complexity audit (P vs NP, red-team) | [repo](https://github.com/jonathansearch/RATISS-V10-Physical-Complexity-Audit) |
+| **ratiss-aeon-agent** | AEON agent (React/FastAPI UI + brain) | [repo](https://github.com/jonathansearch/ratiss-aeon-agent) |
 | **Naomi-Ia-** | AI assistant (Naomi) | [repo](https://github.com/evinajonathan13-max/Naomi-Ia-) |
 
 > 🔐 The repositories marked *private* contain the intellectual property of the
@@ -195,8 +195,8 @@ TSP with 200,000 cities in < 50 ms, 93.63% structural conservation (Betti number
 
 ## 📊 GitHub statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=evinajonathan13-max&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evinajonathan13-max&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=jonathansearch&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansearch&layout=compact&theme=radical)
 
 > Secondary account (earlier specialized modules): [`bridejackson137-svg`](https://github.com/bridejackson137-svg)
 
